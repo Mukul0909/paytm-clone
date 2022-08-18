@@ -15,4 +15,4 @@
 https://www.loom.com/share/5164a4917bda409d9f9abf006f9576d0
 
 LIVE PROJECT LINK
-[Link] ('https://paytm-modified.netlify.app/')
+[Live link] ("https://paytm-modified.netlify.app/") 
