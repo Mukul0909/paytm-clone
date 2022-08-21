@@ -11,6 +11,9 @@
 
 
 
+# Time taken to complete project.
+15 hrs
+
 >VIDEO DEMO
 https://www.loom.com/share/5164a4917bda409d9f9abf006f9576d0
 
